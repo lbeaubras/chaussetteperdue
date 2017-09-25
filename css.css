@@ -51,9 +51,11 @@ body
 
 #menu
 {
-	margin:          0 20px;
+	display: inline-block;
+	text-align: center;
+	/* margin: 0 20px;
 	height:          29px;
-	padding:         5px 0;
+	padding:         5px 0;*/
 }
 
 #menu ul
