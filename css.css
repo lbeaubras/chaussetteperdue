@@ -68,6 +68,8 @@ body
 #menu ul li
 {
 	list-style:      none;
+	margin-top: 10%;
+	margin-bottom: 5%;
 }
 
 #menu ul li a:link, #menu ul li a:active, #menu ul li a:visited
