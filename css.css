@@ -6,7 +6,7 @@ body
 	margin:          0;
 	padding:         0;
 	<!-- background-color: #000;-->
-	background:      transparent url('doge.jpg') top left repeat;
+	background:      url('doge.jpg');
 	font-family:     'lucida grande', arial, tahoma, sans-serif;
 }
 
