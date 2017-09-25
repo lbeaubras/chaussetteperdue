@@ -51,8 +51,8 @@ body
 
 #menu
 {
-
-	margin-left: 0;
+	float: left;
+	margin: 0;
 	/*height:          29px;*/
 	padding:         5px 0;
 }
