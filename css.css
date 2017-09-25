@@ -51,25 +51,31 @@ body
 
 #menu
 {
-	float: left;
-	margin: 0;
-	/*height:          29px;*/
-	padding:         5px 0;
+	display: block;
+    float: left;
+    /* height: 29px; */
+    padding: 5px 0;
+    position: absolute;
+    top: 0px;
 }
+
 
 #menu ul
 {
-	margin:          0;
-	padding:         7px;
-
-	height:          29px;
+	    padding: 0;
+    height: 150px;
+    margin-top: -5px;
 }
+
 
 #menu ul li
 {
-	list-style:      none;
-	margin-top: 10%;
-	margin-bottom: 5%;
+	list-style: none;
+    margin-top: 0;
+    margin-bottom: 0%;
+    font-size: 300%;
+    background-color: beige;
+    height: 200px;
 }
 
 #menu ul li a:link, #menu ul li a:active, #menu ul li a:visited
