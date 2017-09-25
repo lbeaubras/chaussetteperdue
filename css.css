@@ -26,6 +26,11 @@ body
 	background:      transparent url('header.jpg') top left no-repeat;
 }
 
+#map{
+	height: 400px;
+        width: 100%;
+}
+
 #header-contact
 {
 	margin:          0 auto;
