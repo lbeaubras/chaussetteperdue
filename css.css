@@ -26,6 +26,14 @@ body
 	background:      transparent url('header.jpg') top left no-repeat;
 }
 
+#header-contact
+{
+	margin:          0 auto;
+	width:           640px;
+	height:          250px;
+	background:      transparent url('header-contact.jpg') top left no-repeat;
+}
+
 .headtitle
 {
 	position:        relative;
